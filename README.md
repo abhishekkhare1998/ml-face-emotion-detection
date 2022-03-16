@@ -10,8 +10,8 @@ Implementation:
 
 3) Test: 
 
-    i) Take a test image - t, compute its orthogonal projection on both subspaces.
-    ii) Let orthogonal projection of t on subspaces be t_happy and t_neutral respectively.
-    iii) Compute L2 norm of (t-t_happy) and (t-t_neutral) and compare.
-    iv) Classify the test based on the norm i.e, if ||(t-t_happy)|| < ||(t-t_neutral)|| then classify the image as happy.
-    v) repeat steps i) to iv) for the rest of the images
+    i) Take a test image - t, compute its orthogonal projection on both subspaces.\n
+    ii) Let orthogonal projection of t on subspaces be t_happy and t_neutral respectively.\n
+    iii) Compute L2 norm of (t-t_happy) and (t-t_neutral) and compare.\n
+    iv) Classify the test based on the norm i.e, if ||(t-t_happy)|| < ||(t-t_neutral)|| then classify the image as happy.\n
+    v) repeat steps i) to iv) for the rest of the images.
